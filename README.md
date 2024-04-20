@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Proyecto de Paula Ruiz
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](perrosalchi.jpg)
 
 ## Descripción
 
